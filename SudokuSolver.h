@@ -1,7 +1,6 @@
-//
-// Created by pankaj on 12/05/20.
-//
-
+//Copyright (c) 2020, Pankaj Kumar G
+//All rights reserved.
+// SPDX-License-Identifier: BSD 3-Clause
 #ifndef SUDOKUSOLVER_SUDOKUSOLVER_H
 #define SUDOKUSOLVER_SUDOKUSOLVER_H
 
